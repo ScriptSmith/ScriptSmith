@@ -14,4 +14,5 @@
 <samp><a href="https://github.com/ScriptSmith/claude-usage">claude-usage</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp> GNOME Shell extension that shows Claude usage and Claude Code session activity<br>
 <samp><a href="https://github.com/ScriptSmith/copilot-usage-cli">copilot-usage-cli</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp> Report GitHub Copilot CLI AIC usage from local session logs<br>
 <samp><a href="https://github.com/ScriptSmith/copilot-usage">copilot-usage</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp> GNOME Shell extension that reports GitHub Copilot CLI AIC usage<br>
-<samp><a href="https://github.com/ScriptSmith/ports-view">ports-view</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp> GNOME Shell extension that shows your active ports
+<samp><a href="https://github.com/ScriptSmith/ports-view">ports-view</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp> GNOME Shell extension that shows your active ports<br>
+<samp><a href="https://github.com/ScriptSmith/rembro">rembro</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp> Open a browser that uses the network of an SSH host, container, VM or Kubernetes pod
